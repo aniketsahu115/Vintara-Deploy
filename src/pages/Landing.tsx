@@ -230,7 +230,7 @@ export default function Landing() {
             <div className="text-center">
               <div className="inline-flex items-center rounded-full border border-bitcoin/20 bg-bitcoin/10 px-4 py-2 text-sm text-bitcoin">
                 <div className="h-2 w-2 rounded-full bg-bitcoin animate-pulse mr-2" />
-                Development in progress - Coming Q2 2024
+                Development in progress - Coming Q2 2025
               </div>
             </div>
           </div>

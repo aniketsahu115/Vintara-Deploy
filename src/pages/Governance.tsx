@@ -799,21 +799,21 @@ export default function Governance() {
                 {[
                   {
                     title: "Governance Town Hall",
-                    date: "2024-01-15",
+                    date: "2025-01-15",
                     time: "2:00 PM UTC",
                     type: "meeting",
                     attendees: 156,
                   },
                   {
                     title: "Protocol Upgrade Discussion",
-                    date: "2024-01-18",
+                    date: "2025-01-18",
                     time: "3:00 PM UTC",
                     type: "discussion",
                     attendees: 89,
                   },
                   {
                     title: "Community AMA",
-                    date: "2024-01-22",
+                    date: "2025-01-22",
                     time: "1:00 PM UTC",
                     type: "ama",
                     attendees: 234,
