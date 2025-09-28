@@ -2,6 +2,10 @@
 
 This guide will help you deploy the Vintara DeFi Protocol frontend to Vercel with all contract integrations working.
 
+## ⚠️ **Important Fix Applied**
+
+The `package.json` has been cleaned to remove Hardhat dependencies that were causing build conflicts. The frontend now uses only the necessary dependencies for React/Vite deployment.
+
 ## 📋 Prerequisites
 
 - GitHub account
@@ -135,6 +139,8 @@ git push origin main
 - **Check environment variables** are set correctly
 - **Verify all dependencies** are in package.json
 - **Check Vite configuration** is correct
+- **Use `--legacy-peer-deps`** if dependency conflicts occur
+- **Clean package-lock.json** if needed
 
 ### Runtime Errors
 
